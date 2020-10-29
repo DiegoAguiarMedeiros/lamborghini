@@ -1,0 +1,13 @@
+#menu {
+    width: 100%!important;
+}
+.menu-fixed {
+    position: fixed;
+}
+.menu-inherit {
+    position: inherit;
+}
+
+#logo {
+    width: 100px;
+}
